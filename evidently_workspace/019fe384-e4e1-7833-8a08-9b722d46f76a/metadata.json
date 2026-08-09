@@ -1,0 +1,7 @@
+{
+  "id": "019fe384-e4e1-7833-8a08-9b722d46f76a",
+  "name": "MLOps Assignment 4",
+  "description": "Local self-hosted Evidently project for Assignment 4. Tracks the baseline test evaluation plus Scenarios A, A+B, and A+B+C.",
+  "org_id": null,
+  "version": "2"
+}
